@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-lautenbach)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m-lautenbach&mode=weekly)](https://git.io/streak-stats)
