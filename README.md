@@ -9,4 +9,3 @@ Official website, currently hosting an old hobby project using WebRTC to sync pl
 <a href="https://www.linkedin.com/in/mlautenb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/malaute/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<img src="https://widgetbite.com/stats/lautenbach" alt="watching_count" />
