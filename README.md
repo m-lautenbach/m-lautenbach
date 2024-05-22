@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-lautenbach&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m-lautenbach&mode=weekly&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-lautenbach&layout=compact&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" />
 
